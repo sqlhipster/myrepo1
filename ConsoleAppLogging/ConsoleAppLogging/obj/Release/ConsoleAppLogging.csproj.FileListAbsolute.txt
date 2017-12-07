@@ -1,0 +1,6 @@
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Release\ConsoleAppLogging.exe.config
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Release\ConsoleAppLogging.exe
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Release\ConsoleAppLogging.pdb
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\obj\Release\ConsoleAppLogging.csprojResolveAssemblyReference.cache
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\obj\Release\ConsoleAppLogging.exe
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\obj\Release\ConsoleAppLogging.pdb

@@ -1,0 +1,12 @@
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\ConsoleAppLogging.exe.config
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\ConsoleAppLogging.exe
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\ConsoleAppLogging.pdb
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\obj\Debug\ConsoleAppLogging.exe
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\obj\Debug\ConsoleAppLogging.pdb
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\VNC.Logging.dll
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\obj\Debug\ConsoleAppLogging.csprojResolveAssemblyReference.cache
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\Microsoft.Practices.Unity.dll
+D:\GitHub\Matt\ConsoleAppLogging\ConsoleAppLogging\bin\Debug\Microsoft.Practices.Unity.Interception.dll
