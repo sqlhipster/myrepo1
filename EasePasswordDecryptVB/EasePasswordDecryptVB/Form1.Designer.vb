@@ -34,6 +34,8 @@ Partial Class Form1
         Me.btnDecrypt = New System.Windows.Forms.Button()
         Me.btnConnect = New System.Windows.Forms.Button()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.cmb_Databases = New System.Windows.Forms.ComboBox()
+        Me.Label5 = New System.Windows.Forms.Label()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -58,6 +60,7 @@ Partial Class Form1
         Me.txtServerName.Name = "txtServerName"
         Me.txtServerName.Size = New System.Drawing.Size(150, 20)
         Me.txtServerName.TabIndex = 2
+        Me.txtServerName.Text = "easeworks-eng.easeinc.com"
         '
         'txtUserName
         '
@@ -65,6 +68,7 @@ Partial Class Form1
         Me.txtUserName.Name = "txtUserName"
         Me.txtUserName.Size = New System.Drawing.Size(150, 20)
         Me.txtUserName.TabIndex = 3
+        Me.txtUserName.Text = "easeuser"
         '
         'txtPassword
         '
@@ -72,6 +76,7 @@ Partial Class Form1
         Me.txtPassword.Name = "txtPassword"
         Me.txtPassword.Size = New System.Drawing.Size(150, 20)
         Me.txtPassword.TabIndex = 4
+        Me.txtPassword.Text = "u2BvfjByGVaXqF"
         '
         'Label1
         '
@@ -120,7 +125,7 @@ Partial Class Form1
         '
         'btnConnect
         '
-        Me.btnConnect.Location = New System.Drawing.Point(294, 213)
+        Me.btnConnect.Location = New System.Drawing.Point(306, 213)
         Me.btnConnect.Name = "btnConnect"
         Me.btnConnect.Size = New System.Drawing.Size(75, 23)
         Me.btnConnect.TabIndex = 10
@@ -135,11 +140,30 @@ Partial Class Form1
         Me.DataGridView1.Size = New System.Drawing.Size(460, 197)
         Me.DataGridView1.TabIndex = 11
         '
+        'cmb_Databases
+        '
+        Me.cmb_Databases.FormattingEnabled = True
+        Me.cmb_Databases.Location = New System.Drawing.Point(306, 160)
+        Me.cmb_Databases.Name = "cmb_Databases"
+        Me.cmb_Databases.Size = New System.Drawing.Size(166, 21)
+        Me.cmb_Databases.TabIndex = 12
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(247, 167)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(53, 13)
+        Me.Label5.TabIndex = 13
+        Me.Label5.Text = "Database"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(484, 461)
+        Me.Controls.Add(Me.Label5)
+        Me.Controls.Add(Me.cmb_Databases)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.btnConnect)
         Me.Controls.Add(Me.btnDecrypt)
@@ -172,4 +196,6 @@ Partial Class Form1
     Friend WithEvents btnDecrypt As Button
     Friend WithEvents btnConnect As Button
     Friend WithEvents DataGridView1 As DataGridView
+    Friend WithEvents cmb_Databases As ComboBox
+    Friend WithEvents Label5 As Label
 End Class
